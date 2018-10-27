@@ -18,8 +18,10 @@ RSpec was created by Steven Baker with help from Dave Astels and Aslak Hellesoy.
 
 ### Does this tool do any test case storage?
 
+
 ### Does this tool allow tester to link requirements or defects to test cases?
+
 
 ### If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
-RSpec is built to work with the programming language Ruby. David Chelimsky had built rspec-rails which integrates with Ruby on Rails ( a web application that helps you build other web apps with the Ruby language.
+RSpec is built to work with the programming language Ruby. David Chelimsky also built rspec-rails which integrates with Ruby on Rails ( a web application that helps you build other web apps with the Ruby language).
