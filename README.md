@@ -1,7 +1,5 @@
 # Test-Tools-Research
 
-We discussed how test tools are used in class. Research at least one test tool on the web.
-
 Research a test tool and gather the below information, create an md file with your answers.
 
 Answer the below questions about your test tool
