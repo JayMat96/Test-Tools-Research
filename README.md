@@ -1,15 +1,25 @@
 # Test-Tools-Research
 
-Research a test tool and gather the below information, create an md file with your answers.
+Research a test tool and answer the below questions about your test tool
 
-Answer the below questions about your test tool
+### What is the name of the test tool?
 
-What is the name of the test tool?
+RSpec
 
-What company developed this test tool?
+### What company developed this test tool?
 
-Give at least 3 features of this test tool.
+RSpec was created by Steven Baker with help from Dave Astels and Aslak Hellesoy. David Chelimsky later joined the team and eventually became the leader of the project.
 
-Does this tool do any test case storage?
-Does this tool allow tester to link requirements or defects to test cases?
-If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+### Give at least 3 features of this test tool.
+
+*  
+* 
+* 
+
+### Does this tool do any test case storage?
+
+### Does this tool allow tester to link requirements or defects to test cases?
+
+### If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+
+RSpec is built to work with the programming language Ruby. David Chelimsky had built rspec-rails which integrates with Ruby on Rails ( a web application that helps you build other web apps with the Ruby language.
