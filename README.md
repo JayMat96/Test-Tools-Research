@@ -12,7 +12,7 @@ RSpec was created by Steven Baker with help from Dave Astels and Aslak Hellesoy.
 
 ### Give at least 3 features of this test tool.
 
-*  
+* Dry run CLI option - allows 
 * 
 * 
 
