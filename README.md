@@ -18,6 +18,7 @@ RSpec was created by Steven Baker with help from Dave Astels and Aslak Hellesoy.
 
 ### Does this tool do any test case storage?
 
+I could not find anything indicating that RSpec stores test cases.
 
 ### Does this tool allow tester to link requirements or defects to test cases?
 
