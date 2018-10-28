@@ -10,10 +10,10 @@ RSpec
 
 RSpec was created by Steven Baker with help from Dave Astels and Aslak Hellesoy. David Chelimsky later joined the team and eventually became the leader of the project.
 
-### Give at least 3 features of this test tool.
+### Features of this test tool.
 
 * Compatible with 2.x versions of Ruby.
-* 
+* No monkey patching required - A new syntax disables monkey patching ("c.disable_monkey_patching!"). Monkey patching is the process of modifying methods in code without modifying the original code.
 * Dry run CLI option - "way to review your suite's documentation output without waiting for your specs to run or worrying about their pass/fail status."
 
 ### Does this tool do any test case storage?
